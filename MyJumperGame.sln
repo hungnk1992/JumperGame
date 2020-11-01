@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myjumpergame", "myjumpergame.csproj", "{55E24D6A-6AB9-7681-7F1E-AF3F81E2AA33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myjumpergame.Plugins", "myjumpergame.Plugins.csproj", "{E090A8C3-EB49-69DF-033E-345CBCD2498B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myjumpergame.Editor", "myjumpergame.Editor.csproj", "{DD565C75-9BF8-2B4E-871B-2C301647DCBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myjumpergame.Editor.Plugins", "myjumpergame.Editor.Plugins.csproj", "{9EDB1183-2602-7C1B-6FDB-3DC6D8DFF107}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55E24D6A-6AB9-7681-7F1E-AF3F81E2AA33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55E24D6A-6AB9-7681-7F1E-AF3F81E2AA33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55E24D6A-6AB9-7681-7F1E-AF3F81E2AA33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55E24D6A-6AB9-7681-7F1E-AF3F81E2AA33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E090A8C3-EB49-69DF-033E-345CBCD2498B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E090A8C3-EB49-69DF-033E-345CBCD2498B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E090A8C3-EB49-69DF-033E-345CBCD2498B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E090A8C3-EB49-69DF-033E-345CBCD2498B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD565C75-9BF8-2B4E-871B-2C301647DCBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD565C75-9BF8-2B4E-871B-2C301647DCBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD565C75-9BF8-2B4E-871B-2C301647DCBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD565C75-9BF8-2B4E-871B-2C301647DCBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EDB1183-2602-7C1B-6FDB-3DC6D8DFF107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EDB1183-2602-7C1B-6FDB-3DC6D8DFF107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EDB1183-2602-7C1B-6FDB-3DC6D8DFF107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EDB1183-2602-7C1B-6FDB-3DC6D8DFF107}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

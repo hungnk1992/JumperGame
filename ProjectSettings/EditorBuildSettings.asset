@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Sences/ActionPhase.unity
+    guid: cd34d82296d24e24e8bb8c154e606ead
+  - enabled: 0
+    path: Assets/Sences/Test.unity
+    guid: 33c7796da412f5b49a910ce86afe2151
